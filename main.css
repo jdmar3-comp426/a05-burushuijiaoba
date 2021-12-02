@@ -1,0 +1,23 @@
+.form {
+    /* Center the form on the page */
+    margin: auto;
+    width: 350px;
+    padding:300px;
+    border: 5px solid #00cc4ec4;
+    border-radius: 10em;
+    align-content: center;
+    
+    }
+
+    form li + li {
+    margin-top: 1em;
+    }
+
+    label {
+    display: inline-block;
+    text-align: right;
+    }
+    
+.ul{
+    list-style: none;
+    }
